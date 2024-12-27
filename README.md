@@ -29,13 +29,9 @@ The home page serves as the central hub for safety features, offering:
 - *LocalStorage*: Stores user login/signup data locally for easy access.
 - *Map API*: Displays the live location of the user on a map.
 
-## How to Run Locally
+## How to run it 
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/BAT4K/smartsnuhackathon.git
-    cd smartsnuhackathon/janani
+   
     
 
 2. Open the index.html file in your preferred browser to launch the app.
